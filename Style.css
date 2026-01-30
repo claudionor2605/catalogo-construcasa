@@ -70,6 +70,8 @@ button{
 
 img {
 
+    background-color: blue;
+
     width: 120px;
     cursor: pointer;
     
